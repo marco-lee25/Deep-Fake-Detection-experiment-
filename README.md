@@ -1,1 +1,1 @@
-# CS4487_Project
+# Deep Fake Detection
